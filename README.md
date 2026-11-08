@@ -58,10 +58,10 @@ Developed an interactive two-page dashboard:
 ## Dashboard Screenshots
 
 ### Sales Performance Overview
-![Sales Performance Overview](Screenshots/sales_performance_overview.png)
+![Sales Performance Overview](sales_performance_overview.png)
 
 ### Product & Profit Analysis
-![Product & Profit Analysis](Screenshots/product_profit_analysis.png)
+![Product & Profit Analysis](product_profit_analysis.png)
 
 ## Key Project Outcomes
 - Analyzed 51,290 records of global retail sales data.
